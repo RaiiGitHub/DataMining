@@ -1,2 +1,10 @@
 sudo chown -R <你的用户>:<你的用户组，我这里是staff> /Library/Python/2.7
 /library/python/2.7/site-packages/pymining
+
+echo "# DataMining" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/RaiiGitHub/DataMining.git
+git push -u origin master
+
