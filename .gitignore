@@ -1,0 +1,7 @@
+/CourseraMachineLearningProgrammingAssignments
+/Fuzzy-clustering-with-EM-algorithm
+/Learning-Data-Mining-with-Python
+/venv
+/kmeans/__init__.py
+/kmeans/tests.py
+*.pyc

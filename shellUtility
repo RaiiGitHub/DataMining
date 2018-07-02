@@ -1,0 +1,2 @@
+sudo chown -R <你的用户>:<你的用户组，我这里是staff> /Library/Python/2.7
+/library/python/2.7/site-packages/pymining
