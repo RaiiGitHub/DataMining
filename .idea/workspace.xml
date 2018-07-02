@@ -30,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="kmeans.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="kmeans.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kmeans/kmeans.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3300">
-              <caret line="220" column="23" selection-start-line="220" selection-start-column="23" selection-end-line="220" selection-end-column="23" />
+            <state relative-caret-position="230">
+              <caret line="166" column="40" lean-forward="true" selection-start-line="166" selection-start-column="40" selection-end-line="166" selection-end-column="40" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -63,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shellUtility" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shellUtility" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shellUtility">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -140,12 +140,12 @@
         <option value="$PROJECT_DIR$/k-means.py" />
         <option value="$PROJECT_DIR$/plotcolor.py" />
         <option value="$PROJECT_DIR$/mining.py" />
-        <option value="$PROJECT_DIR$/kmeans/kmeans.py" />
         <option value="$PROJECT_DIR$/health_data_k_means.py" />
         <option value="$PROJECT_DIR$/kmeans/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/shellUtility" />
+        <option value="$PROJECT_DIR$/kmeans/kmeans.py" />
       </list>
     </option>
   </component>
@@ -159,8 +159,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="437" />
-    <option name="y" value="25" />
+    <option name="y" value="65" />
     <option name="width" value="1680" />
     <option name="height" value="947" />
   </component>
@@ -372,20 +371,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="437" y="25" width="1680" height="947" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="65" width="1680" height="947" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32893" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50061053" side_tool="true" weight="0.45641026" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981685" weight="0.29128206" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981685" weight="0.29058823" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.41743588" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4993895" visible="true" weight="0.5235294" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25335777" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4993895" weight="0.5235294" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25335777" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="5" weight="0.32967034" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.25885227" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.25885227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.39692307" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -658,16 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kmeans/kmeans.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3300">
-          <caret line="220" column="23" selection-start-line="220" selection-start-column="23" selection-end-line="220" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kmeans/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -700,6 +688,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kmeans/kmeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="166" column="40" lean-forward="true" selection-start-line="166" selection-start-column="40" selection-end-line="166" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

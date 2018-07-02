@@ -164,7 +164,7 @@ def draw_2d(
         x_label ='x',
         y_label = 'y',
         marker = '*',
-        point_label = 'clutter center',
+        point_label = 'clutter centers',
         is_time_sequence = False,
         save_path = 'draw_2d_figure'
         ):
